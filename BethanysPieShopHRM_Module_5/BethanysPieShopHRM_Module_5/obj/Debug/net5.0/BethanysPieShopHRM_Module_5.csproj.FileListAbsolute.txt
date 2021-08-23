@@ -1,0 +1,16 @@
+C:\Users\KrisRawson\source\repos\BethanysPieShopHRM_Module_5\BethanysPieShopHRM_Module_5\bin\Debug\net5.0\BethanysPieShopHRM_Module_5.exe
+C:\Users\KrisRawson\source\repos\BethanysPieShopHRM_Module_5\BethanysPieShopHRM_Module_5\bin\Debug\net5.0\BethanysPieShopHRM_Module_5.deps.json
+C:\Users\KrisRawson\source\repos\BethanysPieShopHRM_Module_5\BethanysPieShopHRM_Module_5\bin\Debug\net5.0\BethanysPieShopHRM_Module_5.runtimeconfig.json
+C:\Users\KrisRawson\source\repos\BethanysPieShopHRM_Module_5\BethanysPieShopHRM_Module_5\bin\Debug\net5.0\BethanysPieShopHRM_Module_5.runtimeconfig.dev.json
+C:\Users\KrisRawson\source\repos\BethanysPieShopHRM_Module_5\BethanysPieShopHRM_Module_5\bin\Debug\net5.0\BethanysPieShopHRM_Module_5.dll
+C:\Users\KrisRawson\source\repos\BethanysPieShopHRM_Module_5\BethanysPieShopHRM_Module_5\bin\Debug\net5.0\ref\BethanysPieShopHRM_Module_5.dll
+C:\Users\KrisRawson\source\repos\BethanysPieShopHRM_Module_5\BethanysPieShopHRM_Module_5\bin\Debug\net5.0\BethanysPieShopHRM_Module_5.pdb
+C:\Users\KrisRawson\source\repos\BethanysPieShopHRM_Module_5\BethanysPieShopHRM_Module_5\obj\Debug\net5.0\BethanysPieShopHRM_Module_5.csproj.AssemblyReference.cache
+C:\Users\KrisRawson\source\repos\BethanysPieShopHRM_Module_5\BethanysPieShopHRM_Module_5\obj\Debug\net5.0\BethanysPieShopHRM_Module_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrisRawson\source\repos\BethanysPieShopHRM_Module_5\BethanysPieShopHRM_Module_5\obj\Debug\net5.0\BethanysPieShopHRM_Module_5.AssemblyInfoInputs.cache
+C:\Users\KrisRawson\source\repos\BethanysPieShopHRM_Module_5\BethanysPieShopHRM_Module_5\obj\Debug\net5.0\BethanysPieShopHRM_Module_5.AssemblyInfo.cs
+C:\Users\KrisRawson\source\repos\BethanysPieShopHRM_Module_5\BethanysPieShopHRM_Module_5\obj\Debug\net5.0\BethanysPieShopHRM_Module_5.csproj.CoreCompileInputs.cache
+C:\Users\KrisRawson\source\repos\BethanysPieShopHRM_Module_5\BethanysPieShopHRM_Module_5\obj\Debug\net5.0\BethanysPieShopHRM_Module_5.dll
+C:\Users\KrisRawson\source\repos\BethanysPieShopHRM_Module_5\BethanysPieShopHRM_Module_5\obj\Debug\net5.0\ref\BethanysPieShopHRM_Module_5.dll
+C:\Users\KrisRawson\source\repos\BethanysPieShopHRM_Module_5\BethanysPieShopHRM_Module_5\obj\Debug\net5.0\BethanysPieShopHRM_Module_5.pdb
+C:\Users\KrisRawson\source\repos\BethanysPieShopHRM_Module_5\BethanysPieShopHRM_Module_5\obj\Debug\net5.0\BethanysPieShopHRM_Module_5.genruntimeconfig.cache
